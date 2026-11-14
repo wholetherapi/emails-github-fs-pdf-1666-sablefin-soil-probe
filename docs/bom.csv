@@ -1,9 +1,0 @@
-part,quantity,description
-U1,1,SHT45 temperature and humidity sensor
-U2,1,TDR soil cell assembly
-U3,1,STM32L072CZT6 microcontroller
-L1,1,LoRa module 868 MHz
-B1,1,18650 battery holder
-C1-C8,8,100nF 0603 capacitor
-R1-R6,6,10k 0603 resistor
-H1,1,IP67 cable gland M12
